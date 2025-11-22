@@ -3,6 +3,6 @@
   <img src="https://alorman-git-images.s3.us-east-1.amazonaws.com/contact-header-light.svg">
 </picture>
 
-<img src="https://github.com/alorman/docs-bot/blob/main/assets/images/IMAGE_NAME_LINK?raw=true" height="300">
+[](https://github.com/alorman/docs-bot/blob/main/assets/images/$IMAGE_NAME_LINK.JPG?raw=true)
 
-![](https://raw.githubusercontent.com/alorman/docs-bot/main/assets/PROJECT_CATEGORY_LINK)
+[](https://alorman-git-images.s3.amazonaws.com/$PROJECT_CATEGORY_LINK.svg)
