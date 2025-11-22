@@ -1,7 +1,15 @@
 <picture>
-  <source srcset="https://alorman-git-images.s3.us-east-1.amazonaws.com/contact-header-dark.svg"(prefers-color-scheme: dark)">
-  <img src="https://alorman-git-images.s3.us-east-1.amazonaws.com/contact-header-light.svg">
-</picture>
+  <!-- Dark mode image -->
+  <source
+    srcset="https://alorman-git-images.s3.us-east-1.amazonaws.com/contact-header-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+
+  <!-- Light mode image -->
+  <source
+    srcset="https://alorman-git-images.s3.us-east-1.amazonaws.com/contact-header-light.svg"
+    media="(prefers-color-scheme: light)"
+  />
 
 [](https://github.com/alorman/docs-bot/blob/main/assets/images/$IMAGE_NAME_LINK.JPG?raw=true)
 
