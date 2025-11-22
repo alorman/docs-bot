@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 607.3 31.22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-4 {
+        fill: #231f20;
+        font-family: ArialMT, Arial;
+        font-size: 9px;
+        isolation: isolate;
+      }
+    </style>
+  </defs>
+  <a xlink:href="www.alexlorman.com/directory">
+    <polygon class="cls-1" points="0 18.44 0 18.44 0 31.22 607.3 31.22 607.3 18.44 0 18.44"/>
+  </a>
+  <text class="cls-4" transform="translate(465.48 28.1)"><tspan x="0" y="0">RETURN</tspan><tspan class="cls-3" x="37.5" y="0" xml:space="preserve"> T</tspan><tspan x="45.17" y="0">O</tspan><tspan class="cls-2" x="52.17" y="0"> </tspan><tspan x="54.18" y="0">ALEXLORMAN.COM</tspan></text>
+</svg>

@@ -13,11 +13,31 @@
 
   <!-- Fallback (used if media queries not matched/supported) -->
   <img
-    alt="Your logo"
     src="https://alorman-git-images.s3.us-east-1.amazonaws.com/contact-header-light.svg"
   />
 </picture>
 
 [](https://github.com/alorman/docs-bot/blob/main/assets/images/$IMAGE_NAME_LINK.JPG?raw=true)
+
+<picture>
+  <!-- Dark mode -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://alorman-git-images.s3.amazonaws.com/$PROJECT_CATEGORY_LINK-Dark.svg"
+  />
+
+  <!-- Light mode -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://alorman-git-images.s3.amazonaws.com/$PROJECT_CATEGORY_LINK.svg"
+  />
+
+  <!-- Fallback (used if media queries not matched/supported) -->
+  <img
+    src="https://alorman-git-images.s3.amazonaws.com/$PROJECT_CATEGORY_LINK.svg"
+  />
+</picture>
+
+
 
 [](https://alorman-git-images.s3.amazonaws.com/$PROJECT_CATEGORY_LINK.svg)
