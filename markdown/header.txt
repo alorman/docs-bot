@@ -1,4 +1,7 @@
-[<img src="https://alorman-git-images.s3.amazonaws.com/contact-header.svg">](https://www.alexlorman.com/)
+<picture>
+  <source srcset="https://alorman-git-images.s3.us-east-1.amazonaws.com/contact-header-dark.svg"(prefers-color-scheme: dark)">
+  <img src="https://alorman-git-images.s3.us-east-1.amazonaws.com/contact-header-light.svg">
+</picture>
 
 <img src="https://github.com/alorman/docs-bot/blob/main/assets/images/IMAGE_NAME_LINK?raw=true" height="300">
 
